@@ -1,0 +1,18 @@
+insert into book(person_id, title, author, year) VALUES ('Pride and prejudice', 'Jane Austen', 1813);
+insert into book(person_id, title, author, year) VALUES ('Hobbit', 'John Ronald Ruel Tolkien', 1937);
+insert into book(person_id, title, author, year) VALUES ('Gone Girl', 'Gillian Flynn', 2012);
+insert into book(person_id, title, author, year) VALUES ('The Alchemist', 'Paulo Coelho', 1988);
+insert into book(person_id, title, author, year) VALUES ('The catcher in the rye', 'John Salinger', 1951);
+insert into book(person_id, title, author, year) VALUES ('To kill a mockingbird', 'Harper Lee', 1960);
+insert into book(person_id, title, author, year) VALUES ('The great Gatsby', 'Fransis scott Fitzgerald', 1925);
+insert into book(person_id, title, author, year) VALUES ('The lord of the rings', 'John Ronald Ruel Tolkien', 1955);
+insert into book(person_id, title, author, year) VALUES ('The Hunger Games', 'Suzanne Collins', 2008);
+insert into book(person_id, title, author, year) VALUES ('The Da Vinci Code', 'Dan Brown', 2003);
+insert into book(person_id, title, author, year) VALUES ('Wuthering Heights', 'Emily Bronte', 1847);
+insert into book(person_id, title, author, year) VALUES ('The history of the Russian state', 'Mikhail Karamzin', 1816);
+insert into book(person_id, title, author, year) VALUES ('Jane Ayre', 'Charlotte Bronte', 1847);
+insert into book(person_id, title, author, year) VALUES ('Ulysses', 'James Joyce', 1920);
+insert into book(person_id, title, author, year) VALUES ('Gone with the wind', 'Margaret Mitchell', 1936);
+insert into book(person_id, title, author, year) VALUES ('Twilight', 'Stephenie Meyer', 2005);
+insert into book(person_id, title, author, year) VALUES ('Divergent', 'Veronica Roth', 2011);
+insert into book(person_id, title, author, year) VALUES ('The Maze Runner', 'James Dashner', 2009);
