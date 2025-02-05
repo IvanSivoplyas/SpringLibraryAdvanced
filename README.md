@@ -1,6 +1,5 @@
 # SpringLibraryAdvanced
-An advanced version of my Library web-service. 
-This is the second project in Neil Alishev`s course on Spring Framework. 
+An advanced version of my Library web-service using Spring Boot.  
 
 Technologies:
 
@@ -9,7 +8,7 @@ Technologies:
 - Thymeleaf
 - PostgreSQL
 - H2
-- Spring Date JPA
+- Spring Data JPA
 - Hibernate
 - JUnit
 - Mockito
