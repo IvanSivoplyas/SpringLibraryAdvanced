@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8">
+    <title>Library Main Page</title>
+</head>
+<body>
+
+<p>Welcome to the library!</p>
+
+<hr/>
+
+<div class="main">
+  <div class="list">
+    <a th:href="@{/WEB-INF/views/people}">
+
+        <b>To all readers</b>
+    </a>
+  </div>
+  <div class="list">
+    <a th:href="@{/WEB-INF/views/books}">
+        <b>To all books</b>
+    </a>
+  </div>
+</div>
+
+</body>
+</html>

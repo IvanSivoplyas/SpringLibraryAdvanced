@@ -1,0 +1,10 @@
+insert into person(full_name, birth_year) VALUES ('Ozhegova Nina Ivanovna', 1966);
+insert into person(full_name, birth_year) VALUES ('Lozhkin Vasiliy Ivanovich', 1980);
+insert into person(full_name, birth_year) VALUES ('Terentev Mikhail Pavlovich', 1973);
+insert into person(full_name, birth_year) VALUES ('Vykhina Anna Aleksandrovna', 1991);
+insert into person(full_name, birth_year) VALUES ('Yankovskiy Ivan Anatolievich', 1990);
+insert into person(full_name, birth_year) VALUES ('Akhmetova Alsu Nailevna', 1996);
+insert into person(full_name, birth_year) VALUES ('Kologrivyi Nikita Egorovich', 1994);
+insert into person(full_name, birth_year) VALUES ('Ogaryova Zoya Alekseevna', 1973);
+insert into person(full_name, birth_year) VALUES ('Zimina Eugenia Olegovna', 1985);
+insert into person(full_name, birth_year) VALUES ('Kuzmina Maria Alekseevna', 2001)
